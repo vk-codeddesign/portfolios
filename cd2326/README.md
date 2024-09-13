@@ -6,3 +6,6 @@ Behance: [https://www.behance.net/helenahollnder](https://www.behance.net/helena
 
 ## Baldrian Sector
 Portfolio: [https://digitalpersona.netlify.app/](https://digitalpersona.netlify.app/)
+
+## Anna Ellegaard
+Portfolio: https://annaellegaard.com/
