@@ -3,3 +3,6 @@ The following is a list of portfolios from the students from Coded Design 2023-2
 
 ## Helena Hollænder
 Behance: [https://www.behance.net/helenahollnder](https://www.behance.net/helenahollnder)
+
+## Baldrian Sector
+Portfolio: [https://digitalpersona.netlify.app/](https://digitalpersona.netlify.app/)
