@@ -12,3 +12,6 @@ Portfolio: https://annaellegaard.com/
 
 ## Sine Munch
 Portfolio: https://sinemunch.com/
+
+## Karl Emil Bager
+Portfolio: https://portfolio.karlbager.dk/
